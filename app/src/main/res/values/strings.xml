@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">interfaz</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="Ingresar">INGRESAR</string>
+    <string name="registrar">Registrar</string>
+    <string name="recuperarPassword">¿Se te olvido la contraseña? Click Aqui</string>
+    <string name="ingresar">INGRESAR</string>
+</resources>
